@@ -68,6 +68,7 @@ Plack::Middleware::Auth::OpenID is
 
 =head1 
 
+This project is very experimental and early development.
 It's just a idea. api may change in future and not work well.
 
 =head1 AUTHOR
