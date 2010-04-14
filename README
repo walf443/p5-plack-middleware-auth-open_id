@@ -7,6 +7,9 @@ SYNOPSIS
 DESCRIPTION
     Plack::Middleware::Auth::OpenID is
 
+
+    It's just a idea. api may change in future and not work well.
+
 AUTHOR
     Keiji Yoshimi <walf443 at gmail dot com>
 
