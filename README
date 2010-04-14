@@ -1,0 +1,17 @@
+NAME
+    Plack::Middleware::Auth::OpenID -
+
+SYNOPSIS
+      use Plack::Middleware::Auth::OpenID;
+
+DESCRIPTION
+    Plack::Middleware::Auth::OpenID is
+
+AUTHOR
+    Keiji Yoshimi <walf443 at gmail dot com>
+
+SEE ALSO
+LICENSE
+    This library is free software; you can redistribute it and/or modify it
+    under the same terms as Perl itself.
+

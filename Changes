@@ -1,0 +1,4 @@
+Revision history for Perl extension Plack::Middleware::Auth::OpenID
+
+0.01    Thu Apr 15 00:17:32 2010
+        - original version
